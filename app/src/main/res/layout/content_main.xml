@@ -58,7 +58,6 @@
                     android:layout_below="@id/main_label"
                     android:layout_marginLeft="16dp"
                     android:layout_marginTop="10dp"
-                    android:text="Program Name"
                     android:textColor="@color/colorWhite"
                     android:textSize="16sp"
                     android:textStyle="bold"/>
@@ -70,7 +69,6 @@
                     android:layout_below="@id/program_name"
                     android:layout_marginLeft="16dp"
                     android:layout_marginTop="10dp"
-                    android:text="Day 1:"
                     android:textColor="@color/colorWhite"
                     android:textSize="16sp"
                     android:textStyle="bold"/>
@@ -83,7 +81,6 @@
                     android:layout_marginLeft="4dp"
                     android:layout_toEndOf="@+id/program_day"
                     android:layout_toRightOf="@+id/program_day"
-                    android:text="2  3  4  5  6"
                     android:textColor="@color/colorWhite"
                     android:textSize="16sp"
                     android:textStyle="bold"/>
@@ -95,7 +92,6 @@
                     android:layout_below="@id/program_day"
                     android:layout_marginLeft="16dp"
                     android:layout_marginTop="10dp"
-                    android:text="Total: 25"
                     android:textColor="@color/colorWhite"
                     android:textSize="16sp"
                     android:textStyle="bold"/>
@@ -116,7 +112,6 @@
                         android:layout_height="60dp"
                         android:background="@color/colorAccent"
                         android:onClick="onClickDoButton"
-                        android:text="Do 10 reps"
                         android:textAllCaps="false"
                         android:textColor="@color/colorWhite"
                         android:textSize="20sp"

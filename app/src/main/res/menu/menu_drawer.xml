@@ -4,21 +4,21 @@
     <item
         android:id="@+id/nav_item_pushups"
         android:icon="@mipmap/ic_numeric_1_box"
-        android:title="Pushups" />
+        android:title="@string/pushups" />
 
     <item
         android:id="@+id/nav_item_pullups"
         android:icon="@mipmap/ic_numeric_2_box"
-        android:title="Pullups" />
+        android:title="@string/pullups" />
 
     <item
         android:id="@+id/nav_item_squats"
         android:icon="@mipmap/ic_numeric_3_box"
-        android:title="Squats" />
+        android:title="@string/squats" />
 
     <item
         android:id="@+id/nav_item_dips"
         android:icon="@mipmap/ic_numeric_4_box"
-        android:title="Dips" />
+        android:title="@string/dips" />
 
 </menu>
