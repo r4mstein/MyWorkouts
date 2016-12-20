@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_item_pushups"
+        android:icon="@mipmap/ic_numeric_1_box"
+        android:title="Pushups" />
+
+    <item
+        android:id="@+id/nav_item_pullups"
+        android:icon="@mipmap/ic_numeric_2_box"
+        android:title="Pullups" />
+
+    <item
+        android:id="@+id/nav_item_squats"
+        android:icon="@mipmap/ic_numeric_3_box"
+        android:title="Squats" />
+
+    <item
+        android:id="@+id/nav_item_dips"
+        android:icon="@mipmap/ic_numeric_4_box"
+        android:title="Dips" />
+
+</menu>
